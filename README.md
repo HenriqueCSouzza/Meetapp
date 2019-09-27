@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./public/img-git/Meetapp-logo.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="./public/img-git/Meetapp-logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Meetapp</h3>
