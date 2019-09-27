@@ -100,7 +100,6 @@ Add additional notes about how to deploy this on a live system.
 - [PostgreSQL](https://www.postgresql.org/) - Database
 - [Redis](https://redis.io/) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
